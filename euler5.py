@@ -12,7 +12,7 @@ y = 1
 while y != 0: # continue loop until y=0
   n = n + 2520 # increase by smallest number divisible 1:10
 
-  for i in range(1,20,1): 
+  for i in range(1,21,1): 
     y = n % (i)   
 
     if y != 0: 
