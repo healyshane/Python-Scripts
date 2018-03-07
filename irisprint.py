@@ -6,4 +6,4 @@ with open('data/iris.csv') as f:
     
     for line in f:
         x = line.split(",") # splitting data
-        print('{} {} {} {}'.format(x[0], x[1], x[2], x[3]))
+        print(f'{x[0]} {x[1]} {x[2]} {x[3]}')  #same as print('{} {} {} {}'.format(x[0], x[1], x[2], x[3]))
