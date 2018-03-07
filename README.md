@@ -7,3 +7,5 @@
 3. *euler5.py* file inserted. This contains topic 4 excercise of a script to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20.
 
 4. *irisprint.py* file uploaded. This contains topic 5 exercise of a script that reads the Iris data set in and prints the four numerical values on each row in a nice format.
+
+5. *factorial.py* file uploaded. This contains exercise 6 of a script that takes a single input/argument which is a positive integer and returns its factorial. 
